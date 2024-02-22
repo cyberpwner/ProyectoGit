@@ -25,5 +25,4 @@ select.select_by_visible_text("Alicante");
 
 # click the button aceptar to continue to the next page
 nextBtn = driver.find_element(By.ID, "btnAceptar");
-nextBtn.click();
-
+# nextBtn.click();
